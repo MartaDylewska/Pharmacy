@@ -1,0 +1,39 @@
+PACJENT PESEL:
+85101003446
+85111203456
+85111203457
+83011788905
+
+APTEKARZ PESEL:
+78020505182
+88020505182
+
+DOCTOR PESEL
+73071809098
+74061309098
+77030213456
+74061309099
+
+PRESCRIPTION ID:
+1573831913854
+
+PRESCRIPTION EXAMPLE:
+{
+	
+	"patient":{
+            "firstName": "Micha³",
+            "lastName": "Opania",
+            "pesel": "72120345678",
+            "userRole": "PATIENT"
+        },
+    "medicines": [
+            "Isofix 3 op."
+        ],
+    "doctor": {
+            "firstName": "Andrzej",
+            "lastName": "Kowalski",
+            "pesel": "77030213456",
+            "userRole": "DOCTOR"
+        }
+	
+}
