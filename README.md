@@ -16,6 +16,7 @@ All prescriptions for a given patient pesel can be viewed:
 
 Prescriptions can be added:
 ![postPresc](src/main/resources/postPresc.PNG)
+
 ...and a new id is automatically generated.
 ![postPrescRes](src/main/resources/postPrescResult.PNG)
 
